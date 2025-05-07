@@ -1,0 +1,8 @@
+public class CalculatorController {
+    public String result { get; set; }
+
+    public CalculatorController() {
+        result = '0';
+    }
+
+}
